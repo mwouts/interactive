@@ -63,6 +63,9 @@ USER ${USER}
 #Install nteract 
 RUN pip install nteract_on_jupyter
 
+# Install jupytext (dev version with initial support for C# and F#)
+RUN pip install git+https://github.com/mwouts/jupytext.git@csharp_and_fsharp
+
 # Install lastest build from master branch of Microsoft.DotNet.Interactive from myget
 RUN dotnet tool install -g Microsoft.dotnet-interactive --add-source "https://dotnet.myget.org/F/dotnet-try/api/v3/index.json"
 
