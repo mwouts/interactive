@@ -366,11 +366,11 @@ Check out the [F# docs homepage](https://docs.microsoft.com/dotnet/fsharp/) for 
 
 To learn more about using F# with this Jupyter kernel, we recommmend the following notebooks:
 
-* [Displaying output](Docs/Displaying%20output.ipynb)
-* [Importing Packages](Docs/Importing%20packages.ipynb)
-* [Plotting with Xplot](Docs/Plotting%20with%20Xplot.ipynb)
-* [Object Formatters](Docs/Object%20Formatters.ipynb)
+* [Displaying output](Docs/Displaying%20output.md)
+* [Importing Packages](Docs/Importing%20packages.md)
+* [Plotting with Xplot](Docs/Plotting%20with%20Xplot.md)
+* [Object Formatters](Docs/Object%20Formatters.md)
 
 For more advanced samples, check out the following:
 
-* [HousingML](Samples/HousingML.ipynb)
+* [HousingML](Samples/HousingML.md)

@@ -12,7 +12,7 @@ jupyter:
     name: .net-fsharp
 ---
 
-This demonstrates the use of `Microsoft.Data.Analysis` data frames with F#.You can open this example online using [MyBinder](https://mybinder.org/v2/gh/mwouts/interactive/master?filepath=fsharp%2FSamples%2FDataFrame-Getting%20Started.ipynb).First, get the package:
+This demonstrates the use of `Microsoft.Data.Analysis` data frames with F#.You can open this example online using [MyBinder](https://mybinder.org/v2/gh/mwouts/interactive/master?filepath=fsharp%2FSamples%2FDataFrame-Getting%20Started.md).First, get the package:
 
 ```fsharp
 #r "nuget: Microsoft.Data.Analysis"

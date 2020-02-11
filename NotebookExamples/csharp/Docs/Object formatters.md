@@ -160,8 +160,8 @@ groupOfPeople
 
 ---
 **_See also_**
-* [Displaying output](Displaying%20output.ipynb)
-* [HTML](HTML.ipynb)
+* [Displaying output](Displaying%20output.md)
+* [HTML](HTML.md)
 
 ```csharp
 

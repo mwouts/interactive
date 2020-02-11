@@ -60,8 +60,8 @@ fruitOutput.Update(basket);
 
 ---
 **_See also_**
-* [Object formatters](Object%20formatters.ipynb)
-* [HTML](HTML.ipynb)
+* [Object formatters](Object%20formatters.md)
+* [HTML](HTML.md)
 
 ```csharp
 

@@ -175,8 +175,8 @@ Write a **list** ...
 
 ---
 **_See also_**
-* [Object formatters](Object%20formatters.ipynb)
-* [Displaying output](Displaying%20output.ipynb)
+* [Object formatters](Object%20formatters.md)
+* [Displaying output](Displaying%20output.md)
 
 ```csharp
 

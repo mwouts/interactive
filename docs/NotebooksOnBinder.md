@@ -29,7 +29,7 @@ To get you started, we created a set of samples in C# and F#.  These samples hav
     
     <img src = "https://user-images.githubusercontent.com/2546640/67979951-be4f3f00-fbf3-11e9-90c2-16df089bafd9.png" width = "50%">
 
-- Select the `Samples` Folder, click on a `.ipynb` file that looks interesting, and when it opens you can start running the code in the cells. You can click *Run* to run the first cell. Each time you click *Run* it will run the next cell. 
+- Select the `Samples` Folder, click on a `.md` file that looks interesting, and when it opens you can start running the code in the cells. You can click *Run* to run the first cell. Each time you click *Run* it will run the next cell. 
     
 - Once the notebook has loaded make sure you trust it by clicking on the  **Not Trusted** button, then on **Trust**. 
     
